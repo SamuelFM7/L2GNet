@@ -47,3 +47,10 @@ The composition of local and global filters results in a medium-to-high-pass res
 
 Filters attenuate mid-frequencies (where eigenvalue density is highest) while amplifying both low and high frequencies.  
 This indicates that the model suppresses noisy mid-scale components and focuses on global community trends (low frequencies) and fine-grained local differences (high frequencies).
+
+
+# Results in LRGB
+
+<p align="center">
+  <img src="table_results.png" width="500">
+</p>
