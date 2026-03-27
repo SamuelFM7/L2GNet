@@ -15,7 +15,7 @@ This implies that many eigenvectors correspond to the same frequency, making the
 
 ![Roman eigengaps](roman_eigengap_hist.png)
 
-Roman-Empire does not show exact repetitions, but contains a significant number of *extremely small eigenvalue gaps*, which are below our deflation threshold.  
+Roman-Empire does not show exact repetitions, but contains a significant number of *extremely small eigenvalue gaps*, which are below our deflation threshold (1e-12).  
 These form tight spectral clusters that are effectively indistinguishable numerically and can be treated as a single mode.
 
 ---
