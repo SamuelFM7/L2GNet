@@ -10,7 +10,7 @@ We visualize the learned spectral filters (averaged across layers and channels) 
 ## Amazon-Ratings
 
 <p align="center">
-  <img src="images/amazon_filters_spectrum_run1_step1200.png" width="500">
+  <img src="amazon_filters_spectrum_run1.png" width="500">
 </p>
 
 Filters emphasize low frequencies and a band in the medium-to-high range.  
@@ -21,7 +21,7 @@ This suggests that the model leverages both smooth global structure (low frequen
 ## Minesweeper
 
 <p align="center">
-  <img src="images/minesweeper_filters_spectrum_run1_step14000.png" width="500">
+  <img src="minesweeper_filters_spectrum_run1.png" width="500">
 </p>
 
 Filters place most of their emphasis on high frequencies, consistent with the rapidly varying bomb placement across the grid.
@@ -31,7 +31,7 @@ Filters place most of their emphasis on high frequencies, consistent with the ra
 ## Roman-Empire
 
 <p align="center">
-  <img src="images/roman_filters_spectrum_run1_step1000.png" width="500">
+  <img src="roman_filters_spectrum_run1.png" width="500">
 </p>
 
 Roman-Empire exhibits low homophily.  
@@ -42,7 +42,7 @@ The composition of local and global filters results in a medium-to-high-pass res
 ## Tolokers
 
 <p align="center">
-  <img src="images/tolokers_filters_spectrum_run1_step2000.png" width="500">
+  <img src="tolokers_filters_spectrum_run1.png" width="500">
 </p>
 
 Filters attenuate mid-frequencies (where eigenvalue density is highest) while amplifying both low and high frequencies.  
