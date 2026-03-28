@@ -20,7 +20,7 @@ where $p(\lambda) = \sum_k \alpha_k \lambda^k$. Conversely, any global spectral 
 
 Therefore, on a fixed finite graph, the two classes coincide:
 
-$$\left\{ \mathbf{U} g(\boldsymbol{\Lambda}) \mathbf{U}^\top : g \text{ arbitrary} \right\} = \left\{ p(\mathbf{L}) : p \text{ polynomial of degree} \leq n-1 \right\}.$$
+$$\lbrace \mathbf{U} g(\boldsymbol{\Lambda}) \mathbf{U}^\top : g \text{ arbitrary} \rbrace = \lbrace p(\mathbf{L}) : p \text{ polynomial of degree} \leq n-1 \rbrace.$$
 
 We use "$g(\mathbf{L})$" to denote this class throughout. $\square$
 
